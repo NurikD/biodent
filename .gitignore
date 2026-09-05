@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env*.local
+.DS_Store
+next-env.d.ts
+
+# Исходники, из которых собраны рабочие ассеты. В сборке не участвуют,
+# но весят 30 МБ и остались бы в истории репозитория навсегда.
+public/clinic/biodent_banner.mp4
+public/clinic/biodent-logo.jpg
+public/clinic/biodent-logo-dark.jpg
